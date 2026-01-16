@@ -1,0 +1,7 @@
+DATA ANALYSIS INSIGHTS
+
+1. Technology category generates the highest overall sales.
+2. West region contributes the largest share of total sales.
+3. Office Supplies shows the lowest sales performance.
+4. Profit margin is strongest in the Technology category.
+5. Consumer segment plays a major role in high value sales.
